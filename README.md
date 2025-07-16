@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayhuekim
 - 👀 I’m interested in dynamo and python
-- 🌱 I’m currently studing python
+- 🌱 I’m currently studying python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
