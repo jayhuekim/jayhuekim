@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>ExportFamilyDWG</Name>
+    <Assembly>$(AppData)\Autodesk\Revit\Addins\2024\ExportFamilyDWG.dll</Assembly>
+    <AddInId>9e317b14-2f40-4c72-9867-8b74e38c3ca5</AddInId>
+    <FullClassName>ExportFamilyDWG.ExportFamilyDWGCommand</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Export families to DWG</VendorDescription>
+  </AddIn>
+</RevitAddIns>
